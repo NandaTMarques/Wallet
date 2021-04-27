@@ -31,3 +31,4 @@ A página _web_ irá consumir os dados da API do _awesomeapi API de Cotações_ 
 
 
 ---
+Projeto desenvolvido como avaliação do módulo de front-end no curso da Trybe.
